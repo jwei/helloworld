@@ -11,9 +11,8 @@ int main(int argc, char const *argv[])
   string sIa = bitset<8>(ia).to_string();
   string sIb = bitset<8>(ib).to_string();
 
-  cout << ia << " -- " << sIa << endl; // 01
-  cout << ib << " -- " << sIb << endl; // 10
-
+  cout << ia << " -- " << sIa << endl;  // 01
+  cout << ib << " -- " << sIb << endl;  // 10
 
   return 0;
 }
