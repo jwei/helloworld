@@ -5,12 +5,6 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-  string a = "aaa";
-  string b = a;
-  a = "ccc";
-
-  cout << a << endl << b << endl;
-
   int ia = 1 << 0;  // ROLE_PARENT
   int ib = 1 << 1;  // ROLE_SIBLING
 
