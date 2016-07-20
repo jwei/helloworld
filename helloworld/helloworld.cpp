@@ -23,8 +23,5 @@ int main(int argc, char const *argv[])
   cout << ia << " -- " << sIa << endl; // 01
   cout << ib << " -- " << sIb << endl; // 10
 
-
-
-
   return 0;
 }
