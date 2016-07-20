@@ -5,8 +5,6 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-  cout << "Hello World!" << endl;
-
   string a = "aaa";
   string b = a;
   a = "ccc";
